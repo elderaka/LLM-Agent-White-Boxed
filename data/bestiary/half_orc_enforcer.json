@@ -1,0 +1,1 @@
+{"id": "half_orc_enforcer", "name": "Half-Orc Enforcer", "kind": "monster", "hp": {"max": 22}, "ac": 14, "speed": 6, "ai": {"style": "brute"}, "actions": [{"id": "greatsword", "name": "Greatsword", "to_hit": 5, "damage": "2d6+3"}]}

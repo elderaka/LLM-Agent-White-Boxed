@@ -1,0 +1,1 @@
+{"id": "ahmed_noke", "name": "Ahmed Noke", "kind": "monster", "hp": {"max": 55}, "ac": 12, "speed": 6, "ai": {"style": "controller"}, "actions": [{"id": "ray_of_frost", "name": "Ray of Frost", "to_hit": 6, "damage": "2d8"}, {"id": "dagger", "name": "Dagger", "to_hit": 5, "damage": "1d4+2"}]}

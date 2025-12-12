@@ -1,0 +1,1 @@
+{"id": "wolf_collar", "name": "Collared Wolf", "kind": "monster", "hp": {"max": 11}, "ac": 13, "speed": 8, "ai": {"style": "pack"}, "actions": [{"id": "bite", "name": "Bite", "to_hit": 4, "damage": "2d4+2"}], "tags": ["smart", "pack_tactics"]}

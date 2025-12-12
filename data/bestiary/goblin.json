@@ -1,0 +1,1 @@
+{"id": "goblin", "name": "Goblin", "kind": "monster", "hp": {"max": 10}, "ac": 12, "speed": 6, "ai": {"style": "skirmisher"}, "actions": [{"id": "scimitar", "name": "Scimitar", "to_hit": 4, "damage": "1d6+2"}]}

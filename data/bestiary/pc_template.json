@@ -1,0 +1,1 @@
+{"id": "pc_template", "name": "Aerin", "kind": "pc", "hp": {"max": 18}, "ac": 13, "speed": 6, "ai": {"style": "melee"}, "actions": [{"id": "strike", "name": "Strike", "to_hit": 5, "damage": "1d8+2"}]}

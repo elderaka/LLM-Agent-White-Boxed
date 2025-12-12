@@ -1,0 +1,1 @@
+{"id": "s01", "mode": "dialogue", "setup": {"map_id": "town", "spawn": [{"template": "pc_template", "id": "pc1", "pos": {"x": 3, "y": 6}}, {"template": "goblin", "id": "g1", "pos": {"x": 10, "y": 6}}]}, "beats": [{"text": "A sheep stares intensely."}, {"text": "Footfalls approach."}], "goto": "s02"}

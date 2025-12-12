@@ -1,0 +1,1 @@
+{"id": "s02", "mode": "combat", "setup": {"map_id": "town", "spawn": [{"template": "pc_template", "id": "pc1", "pos": {"x": 3, "y": 6}}, {"template": "goblin", "id": "g1", "pos": {"x": 10, "y": 6}}, {"template": "goblin", "id": "g2", "pos": {"x": 12, "y": 6}}]}}

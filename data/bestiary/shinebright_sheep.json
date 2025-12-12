@@ -1,0 +1,1 @@
+{"id": "shinebright_sheep", "name": "Finethir Shinebright (Sheep)", "kind": "npc", "hp": {"max": 11}, "ac": 10, "speed": 6, "ai": {"style": "flee"}, "actions": [{"id": "baa", "name": "Baa", "to_hit": 0, "damage": "0"}], "tags": ["quest_giver"]}

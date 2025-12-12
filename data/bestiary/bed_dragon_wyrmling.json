@@ -1,0 +1,1 @@
+{"id": "bed_dragon_wyrmling", "name": "Bed Dragon Wyrmling", "kind": "monster", "hp": {"max": 75}, "ac": 16, "speed": 6, "ai": {"style": "artillery"}, "actions": [{"id": "bite", "name": "Bite", "to_hit": 6, "damage": "2d10+4"}, {"id": "splinter_breath", "name": "Splinter Breath", "to_hit": 0, "damage": "7d6"}], "tags": ["vulnerable_fire"]}

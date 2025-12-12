@@ -1,0 +1,1 @@
+{"id": "ape_guard", "name": "Ape Guard", "kind": "monster", "hp": {"max": 19}, "ac": 12, "speed": 6, "ai": {"style": "soldier"}, "actions": [{"id": "greatsword_slash", "name": "Greatsword Slash", "to_hit": 5, "damage": "2d6+3"}]}

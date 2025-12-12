@@ -1,0 +1,1 @@
+{"id": "brown_bear_polymorphed", "name": "Polymorphed Brown Bear", "kind": "monster", "hp": {"max": 34}, "ac": 11, "speed": 6, "ai": {"style": "bruiser"}, "actions": [{"id": "maul", "name": "Maul", "to_hit": 6, "damage": "2d8+4"}]}

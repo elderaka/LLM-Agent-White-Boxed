@@ -1,0 +1,84 @@
+{"event": "move", "actor": "g1", "to": {"x": 9, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 8, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 7, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 6, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 5, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 4, "y": 6}}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 3}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 6}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 6}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 5}
+{"event": "down", "target": "pc1"}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "talk", "actor": "g1", "text": "..."}
+{"event": "move", "actor": "pc1", "to": {"x": 4, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 9, "y": 6}}
+{"event": "move", "actor": "pc1", "to": {"x": 5, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 8, "y": 6}}
+{"event": "move", "actor": "pc1", "to": {"x": 6, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 7, "y": 6}}
+{"event": "attack", "actor": "pc1", "target": "g1", "hit": true, "dmg": 3}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "pc1", "target": "g1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 6}
+{"event": "attack", "actor": "pc1", "target": "g1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "pc1", "target": "g1", "hit": true, "dmg": 9}
+{"event": "down", "target": "g1"}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "talk", "actor": "pc1", "text": "..."}
+{"event": "move", "actor": "g1", "to": {"x": 9, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 8, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 7, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 6, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 5, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 4, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 9, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 8, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 7, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 6, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 9, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 8, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 7, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 6, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 5, "y": 6}}
+{"event": "move", "actor": "g1", "to": {"x": 4, "y": 6}}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 3}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 6}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": false}
+{"event": "attack", "actor": "g1", "target": "pc1", "hit": true, "dmg": 6}

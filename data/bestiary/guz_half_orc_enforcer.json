@@ -1,0 +1,1 @@
+{"id": "guz_half_orc_enforcer", "name": "Guz, Half-Orc Enforcer", "kind": "monster", "hp": {"max": 67}, "ac": 14, "speed": 6, "ai": {"style": "brute"}, "actions": [{"id": "whirling_greatsword", "name": "Whirling Greatsword", "to_hit": 5, "damage": "2d6+3"}], "tags": ["leader", "reckless"]}
